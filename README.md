@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/badhsha-here/badhusha_here/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/badhsha-here/badhusha_here/tree/master/0263-ugly-number) |
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/badhsha-here/badhusha_here/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/badhsha-here/badhusha_here/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
