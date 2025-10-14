@@ -1,8 +1,14 @@
-
+/**
+ * @return {Function}
+ */
 var createHelloWorld = function() {
-    let x="Hello World"
+    
     return function(...args) {
-       return x.toString() 
+        return "Hello World"
     }
 };
 
+/**
+ * const f = createHelloWorld();
+ * f(); // "Hello World"
+ */
