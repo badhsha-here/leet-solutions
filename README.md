@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/badhsha-here/badhusha_here/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/badhsha-here/badhusha_here/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/badhsha-here/badhusha_here/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/badhsha-here/badhusha_here/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/badhsha-here/badhusha_here/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/badhsha-here/badhusha_here/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/badhsha-here/badhusha_here/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/badhsha-here/badhusha_here/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/badhsha-here/badhusha_here/tree/master/0136-single-number) |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/badhsha-here/badhusha_here/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/badhsha-here/badhusha_here/tree/master/0371-sum-of-two-integers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/badhsha-here/badhusha_here/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
