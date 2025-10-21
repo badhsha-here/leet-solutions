@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/badhsha-here/badhusha_here/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/badhsha-here/badhusha_here/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/badhsha-here/badhusha_here/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/badhsha-here/badhusha_here/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/badhsha-here/badhusha_here/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/badhsha-here/badhusha_here/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/badhsha-here/badhusha_here/tree/master/0217-contains-duplicate) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/badhsha-here/badhusha_here/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/badhsha-here/badhusha_here/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
