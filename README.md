@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/badhsha-here/badhusha_here/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/badhsha-here/badhusha_here/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/badhsha-here/badhusha_here/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/badhsha-here/badhusha_here/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/badhsha-here/badhusha_here/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/badhsha-here/badhusha_here/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/badhsha-here/badhusha_here/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
