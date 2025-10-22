@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/badhsha-here/badhusha_here/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/badhsha-here/badhusha_here/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/badhsha-here/badhusha_here/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/badhsha-here/badhusha_here/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/badhsha-here/badhusha_here/tree/master/0217-contains-duplicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/badhsha-here/badhusha_here/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/badhsha-here/badhusha_here/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/badhsha-here/badhusha_here/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/badhsha-here/badhusha_here/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/badhsha-here/badhusha_here/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/badhsha-here/badhusha_here/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/badhsha-here/badhusha_here/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
@@ -72,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badhsha-here/badhusha_here/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/badhsha-here/badhusha_here/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/badhsha-here/badhusha_here/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
