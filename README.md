@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/badhsha-here/badhusha_here/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/badhsha-here/badhusha_here/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1205-defanging-an-ip-address](https://github.com/badhsha-here/badhusha_here/tree/master/1205-defanging-an-ip-address) |
+| [2881-split-strings-by-separator](https://github.com/badhsha-here/badhusha_here/tree/master/2881-split-strings-by-separator) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/badhsha-here/badhusha_here/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/badhsha-here/badhusha_here/tree/master/0217-contains-duplicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/badhsha-here/badhusha_here/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2881-split-strings-by-separator](https://github.com/badhsha-here/badhusha_here/tree/master/2881-split-strings-by-separator) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/badhsha-here/badhusha_here/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
