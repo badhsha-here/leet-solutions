@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badhsha-here/badhusha_here/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/badhsha-here/badhusha_here/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/badhsha-here/badhusha_here/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/badhsha-here/badhusha_here/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/badhsha-here/badhusha_here/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1205-defanging-an-ip-address](https://github.com/badhsha-here/badhusha_here/tree/master/1205-defanging-an-ip-address) |
 ## Math
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/badhsha-here/badhusha_here/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/badhsha-here/badhusha_here/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/badhsha-here/badhusha_here/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/badhsha-here/badhusha_here/tree/master/0415-add-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/badhsha-here/badhusha_here/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/badhsha-here/badhusha_here/tree/master/2383-add-two-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/badhsha-here/badhusha_here/tree/master/2812-find-the-maximum-achievable-number) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/badhsha-here/badhusha_here/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/badhsha-here/badhusha_here/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
