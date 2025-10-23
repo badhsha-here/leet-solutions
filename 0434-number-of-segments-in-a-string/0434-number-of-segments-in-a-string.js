@@ -3,5 +3,5 @@
  * @return {number}
  */
 var countSegments = function(s) {
-    return s.trim().split(/\s+/).filter(Boolean).length
+    return s.trim().split(" ").filter(x=> x!=="").length
 };
