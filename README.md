@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/badhsha-here/badhusha_here/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/badhsha-here/badhusha_here/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/badhsha-here/badhusha_here/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/badhsha-here/badhusha_here/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/badhsha-here/badhusha_here/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/badhsha-here/badhusha_here/tree/master/0415-add-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/badhsha-here/badhusha_here/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/badhsha-here/badhusha_here/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/badhsha-here/badhusha_here/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/badhsha-here/badhusha_here/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/badhsha-here/badhusha_here/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/badhsha-here/badhusha_here/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2881-split-strings-by-separator](https://github.com/badhsha-here/badhusha_here/tree/master/2881-split-strings-by-separator) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/badhsha-here/badhusha_here/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -62,18 +64,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/badhsha-here/badhusha_here/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/badhsha-here/badhusha_here/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/badhsha-here/badhusha_here/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/badhsha-here/badhusha_here/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/badhsha-here/badhusha_here/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/badhsha-here/badhusha_here/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/badhsha-here/badhusha_here/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/badhsha-here/badhusha_here/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/badhsha-here/badhusha_here/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/badhsha-here/badhusha_here/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/badhsha-here/badhusha_here/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/badhsha-here/badhusha_here/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/badhsha-here/badhusha_here/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/badhsha-here/badhusha_here/tree/master/0389-find-the-difference) |
 ## Trie
@@ -88,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/badhsha-here/badhusha_here/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/badhsha-here/badhusha_here/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
