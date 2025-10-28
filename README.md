@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/badhsha-here/badhusha_here/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/badhsha-here/badhusha_here/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1205-defanging-an-ip-address](https://github.com/badhsha-here/badhusha_here/tree/master/1205-defanging-an-ip-address) |
+| [1542-consecutive-characters](https://github.com/badhsha-here/badhusha_here/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/badhsha-here/badhusha_here/tree/master/1651-shuffle-string) |
 | [1714-rearrange-spaces-between-words](https://github.com/badhsha-here/badhusha_here/tree/master/1714-rearrange-spaces-between-words) |
 | [2881-split-strings-by-separator](https://github.com/badhsha-here/badhusha_here/tree/master/2881-split-strings-by-separator) |
