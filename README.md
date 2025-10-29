@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/badhsha-here/badhusha_here/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/badhsha-here/badhusha_here/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/badhsha-here/badhusha_here/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/badhsha-here/badhusha_here/tree/master/0507-perfect-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/badhsha-here/badhusha_here/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/badhsha-here/badhusha_here/tree/master/2383-add-two-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/badhsha-here/badhusha_here/tree/master/2812-find-the-maximum-achievable-number) |
