@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/badhsha-here/badhusha_here/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/badhsha-here/badhusha_here/tree/master/0283-move-zeroes) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/badhsha-here/badhusha_here/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1651-shuffle-string](https://github.com/badhsha-here/badhusha_here/tree/master/1651-shuffle-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/badhsha-here/badhusha_here/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2881-split-strings-by-separator](https://github.com/badhsha-here/badhusha_here/tree/master/2881-split-strings-by-separator) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/badhsha-here/badhusha_here/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/badhsha-here/badhusha_here/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/badhsha-here/badhusha_here/tree/master/0389-find-the-difference) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/badhsha-here/badhusha_here/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Sorting
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/badhsha-here/badhusha_here/tree/master/0169-majority-element) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/badhsha-here/badhusha_here/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Dynamic Programming
 |  |
