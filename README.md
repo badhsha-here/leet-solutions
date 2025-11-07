@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/badhsha-here/badhusha_here/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/badhsha-here/badhusha_here/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/badhsha-here/badhusha_here/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/badhsha-here/badhusha_here/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/badhsha-here/badhusha_here/tree/master/1205-defanging-an-ip-address) |
 | [1542-consecutive-characters](https://github.com/badhsha-here/badhusha_here/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/badhsha-here/badhusha_here/tree/master/1651-shuffle-string) |
