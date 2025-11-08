@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/badhsha-here/badhusha_here/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/badhsha-here/badhusha_here/tree/master/1651-shuffle-string) |
 | [1714-rearrange-spaces-between-words](https://github.com/badhsha-here/badhusha_here/tree/master/1714-rearrange-spaces-between-words) |
+| [2154-minimum-moves-to-convert-string](https://github.com/badhsha-here/badhusha_here/tree/master/2154-minimum-moves-to-convert-string) |
 | [2881-split-strings-by-separator](https://github.com/badhsha-here/badhusha_here/tree/master/2881-split-strings-by-separator) |
 ## Math
 |  |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/badhsha-here/badhusha_here/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [2154-minimum-moves-to-convert-string](https://github.com/badhsha-here/badhusha_here/tree/master/2154-minimum-moves-to-convert-string) |
 <!---LeetCode Topics End-->
