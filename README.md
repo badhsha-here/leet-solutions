@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/badhsha-here/badhusha_here/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/badhsha-here/badhusha_here/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/badhsha-here/badhusha_here/tree/master/0507-perfect-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/badhsha-here/badhusha_here/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/badhsha-here/badhusha_here/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/badhsha-here/badhusha_here/tree/master/2383-add-two-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/badhsha-here/badhusha_here/tree/master/2812-find-the-maximum-achievable-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/badhsha-here/badhusha_here/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/badhsha-here/badhusha_here/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/badhsha-here/badhusha_here/tree/master/0283-move-zeroes) |
+| [1031-add-to-array-form-of-integer](https://github.com/badhsha-here/badhusha_here/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/badhsha-here/badhusha_here/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1651-shuffle-string](https://github.com/badhsha-here/badhusha_here/tree/master/1651-shuffle-string) |
