@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/badhsha-here/badhusha_here/tree/master/0742-to-lower-case) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/badhsha-here/badhusha_here/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/badhsha-here/badhusha_here/tree/master/1205-defanging-an-ip-address) |
+| [1524-string-matching-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/badhsha-here/badhusha_here/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/badhsha-here/badhusha_here/tree/master/1651-shuffle-string) |
 | [1714-rearrange-spaces-between-words](https://github.com/badhsha-here/badhusha_here/tree/master/1714-rearrange-spaces-between-words) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/badhsha-here/badhusha_here/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/badhsha-here/badhusha_here/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-string-matching-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/badhsha-here/badhusha_here/tree/master/1651-shuffle-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/badhsha-here/badhusha_here/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2881-split-strings-by-separator](https://github.com/badhsha-here/badhusha_here/tree/master/2881-split-strings-by-separator) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badhsha-here/badhusha_here/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1524-string-matching-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
