@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badhsha-here/badhusha_here/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/badhsha-here/badhusha_here/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/badhsha-here/badhusha_here/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/badhsha-here/badhusha_here/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/badhsha-here/badhusha_here/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/badhsha-here/badhusha_here/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/badhsha-here/badhusha_here/tree/master/0434-number-of-segments-in-a-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/badhsha-here/badhusha_here/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/badhsha-here/badhusha_here/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/badhsha-here/badhusha_here/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/badhsha-here/badhusha_here/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/badhsha-here/badhusha_here/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/badhsha-here/badhusha_here/tree/master/0500-keyboard-row) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/badhsha-here/badhusha_here/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/badhsha-here/badhusha_here/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/badhsha-here/badhusha_here/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Dynamic Programming
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2154-minimum-moves-to-convert-string](https://github.com/badhsha-here/badhusha_here/tree/master/2154-minimum-moves-to-convert-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/badhsha-here/badhusha_here/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
