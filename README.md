@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/badhsha-here/badhusha_here/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/badhsha-here/badhusha_here/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/badhsha-here/badhusha_here/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/badhsha-here/badhusha_here/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/badhsha-here/badhusha_here/tree/master/0500-keyboard-row) |
 | [1031-add-to-array-form-of-integer](https://github.com/badhsha-here/badhusha_here/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/badhsha-here/badhusha_here/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/badhsha-here/badhusha_here/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/badhsha-here/badhusha_here/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/badhsha-here/badhusha_here/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/badhsha-here/badhusha_here/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
