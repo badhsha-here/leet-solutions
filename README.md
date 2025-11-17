@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/badhsha-here/badhusha_here/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1524-string-matching-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/badhsha-here/badhusha_here/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1651-shuffle-string](https://github.com/badhsha-here/badhusha_here/tree/master/1651-shuffle-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/badhsha-here/badhusha_here/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2881-split-strings-by-separator](https://github.com/badhsha-here/badhusha_here/tree/master/2881-split-strings-by-separator) |
