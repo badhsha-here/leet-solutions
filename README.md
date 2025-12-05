@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/badhsha-here/badhusha_here/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/badhsha-here/badhusha_here/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/badhsha-here/badhusha_here/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/badhsha-here/badhusha_here/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/badhsha-here/badhusha_here/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/badhsha-here/badhusha_here/tree/master/0500-keyboard-row) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/badhsha-here/badhusha_here/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0832-flipping-an-image](https://github.com/badhsha-here/badhusha_here/tree/master/0832-flipping-an-image) |
 | [1031-add-to-array-form-of-integer](https://github.com/badhsha-here/badhusha_here/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/badhsha-here/badhusha_here/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/badhsha-here/badhusha_here/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/badhsha-here/badhusha_here/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/badhsha-here/badhusha_here/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/badhsha-here/badhusha_here/tree/master/0832-flipping-an-image) |
 ## Trie
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/badhsha-here/badhusha_here/tree/master/0415-add-strings) |
+| [0832-flipping-an-image](https://github.com/badhsha-here/badhusha_here/tree/master/0832-flipping-an-image) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/badhsha-here/badhusha_here/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sliding Window
 |  |
@@ -192,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/badhsha-here/badhusha_here/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/badhsha-here/badhusha_here/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
