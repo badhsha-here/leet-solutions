@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/badhsha-here/badhusha_here/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/badhsha-here/badhusha_here/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/badhsha-here/badhusha_here/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/badhsha-here/badhusha_here/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/badhsha-here/badhusha_here/tree/master/0500-keyboard-row) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/badhsha-here/badhusha_here/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0832-flipping-an-image](https://github.com/badhsha-here/badhusha_here/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/badhsha-here/badhusha_here/tree/master/0905-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/badhsha-here/badhusha_here/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/badhsha-here/badhusha_here/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/badhsha-here/badhusha_here/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/badhsha-here/badhusha_here/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/badhsha-here/badhusha_here/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/badhsha-here/badhusha_here/tree/master/0905-sort-array-by-parity) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/badhsha-here/badhusha_here/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
