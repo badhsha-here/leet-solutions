@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/badhsha-here/badhusha_here/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/badhsha-here/badhusha_here/tree/master/1651-shuffle-string) |
 | [1714-rearrange-spaces-between-words](https://github.com/badhsha-here/badhusha_here/tree/master/1714-rearrange-spaces-between-words) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/badhsha-here/badhusha_here/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-minimum-moves-to-convert-string](https://github.com/badhsha-here/badhusha_here/tree/master/2154-minimum-moves-to-convert-string) |
 | [2881-split-strings-by-separator](https://github.com/badhsha-here/badhusha_here/tree/master/2881-split-strings-by-separator) |
 ## Math
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/badhsha-here/badhusha_here/tree/master/0500-keyboard-row) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/badhsha-here/badhusha_here/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/badhsha-here/badhusha_here/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/badhsha-here/badhusha_here/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/badhsha-here/badhusha_here/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/badhsha-here/badhusha_here/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sorting
